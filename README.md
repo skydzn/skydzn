@@ -38,6 +38,12 @@
 
 ---
 
+## Stats
+### Codewars
+[![Codewars](https://www.codewars.com/users/skydzn/badges/large)](https://www.codewars.com/users/skydzn)
+
+---
+
 ## Me contacter
 [![Linkedin Badge](https://img.shields.io/badge/-lucashauszler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hauszler-965973231/)
 
