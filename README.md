@@ -44,3 +44,7 @@
 
 ---
 
+## Me contacter
+[![Linkedin Badge](https://img.shields.io/badge/-lucashauszler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-hauszler-965973231/)
+
+---
